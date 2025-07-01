@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">A passionate Python developer from Singanallur</h3>
+<h3 align="center">A passionate Python developer with brain wired python logic and connected with selenium pulii from Singanallur native vellalur</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
